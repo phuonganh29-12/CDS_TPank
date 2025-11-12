@@ -19,7 +19,7 @@
       "name": "Pixie Cut",
       "category": "short",
       "description": "A short pixie cut suitable for oval faces.",
-      "imageUrl": "https://images.pexels.com/photos/1319911/pexels-photo-1319911.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://lovehairstyles.com/wp-content/uploads/2016/11/flirty-haircuts-for-oval-faces-short-long-pixie-683x1024.jpg",
       "imageHint": "pixie haircut",
       "suitableFaces": ["oval", "heart"],
       "popularity": 120
@@ -29,7 +29,7 @@
       "name": "Long Wavy Blonde",
       "category": "long",
       "description": "Flowing long and wavy blonde hair.",
-      "imageUrl": "https://images.pexels.com/photos/458766/pexels-photo-458766.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://img.freepik.com/premium-photo/blonde-woman-with-long-wavy-hair_961147-22516.jpg?w=2000",
       "imageHint": "long wavy hair",
       "suitableFaces": ["oval", "round", "square"],
       "popularity": 250
@@ -39,7 +39,7 @@
       "name": "Buzz Cut",
       "category": "buzz",
       "description": "A very short and bold buzz cut.",
-      "imageUrl": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0162/2116/files/buzz_haircuts_for_men_1.jpg?v=1723634705",
       "imageHint": "buzz cut",
       "suitableFaces": ["oval", "square", "round"],
       "popularity": 90
@@ -49,7 +49,7 @@
       "name": "Curtain Bangs",
       "category": "bangs",
       "description": "Stylish curtain bangs to frame the face.",
-      "imageUrl": "https://images.pexels.com/photos/3993466/pexels-photo-3993466.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://www.herstylecode.com/wp-content/uploads/2023/06/hair-with-curtain-bangs-17.jpg",
       "imageHint": "curtain bangs",
       "suitableFaces": ["round", "heart", "square"],
       "popularity": 210
@@ -59,7 +59,7 @@
       "name": "Long Extensions",
       "category": "extension",
       "description": "Add length and volume with extensions.",
-      "imageUrl": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://i5.walmartimages.com/asr/b28ac9c7-215d-4cc3-a52d-9c70a12bc324.13906807d314f51625332436882400ca.jpeg",
       "imageHint": "hair extensions",
       "suitableFaces": ["oval", "round", "square", "heart"],
       "popularity": 130
@@ -70,7 +70,7 @@
       "name": "Short Wavy Curls",
       "category": "short",
       "description": "Playful and short wavy curls.",
-      "imageUrl": "https://images.pexels.com/photos/450214/pexels-photo-450214.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://i.pinimg.com/originals/e7/54/91/e754914d9a2dfe63f6fe4fe90e7da36d.jpg",
       "imageHint": "short curly hair",
       "suitableFaces": ["round", "heart"],
       "popularity": 160
@@ -80,7 +80,7 @@
       "name": "Blunt Bangs",
       "category": "bangs",
       "description": "Bold and straight-across blunt bangs.",
-      "imageUrl": "https://images.pexels.com/photos/1468379/pexels-photo-1468379.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://content.latest-hairstyles.com/wp-content/uploads/polished-sleek-bob-with-full-bangs.jpg",
       "imageHint": "blunt bangs",
       "suitableFaces": ["oval", "square"],
       "popularity": 115
@@ -90,7 +90,7 @@
       "name": "Pastel Pink Color",
       "category": "color",
       "description": "A dreamy pastel pink hair color.",
-      "imageUrl": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://www.fabmood.com/inspiration/wp-content/uploads/2023/04/pink-hair-colors-1.jpg",
       "imageHint": "pink hair",
       "suitableFaces": ["oval", "heart"],
       "popularity": 85
@@ -100,7 +100,7 @@
       "name": "Crew Cut",
       "category": "short",
       "description": "A classic, short crew cut.",
-      "imageUrl": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://tiki.vn/blog/wp-content/uploads/2023/01/sS5jYiH_ZE25BGHF5OoCwBBO0mg0X9lWjiHbQDu_JNO8xSdCBnkmPOpV7uajxWq3SP2DzHTsp944T2n8a8IsKFh068njLFCKtAudno64mHTTDz8DCJCceiFM1s27YNd7ReHFMGJXXEnbfrsnBG3_z-PTc5Rfi0FG3Va0mPdHQLhPHJ8ld8apDMhshGqrig.png",
       "imageHint": "crew cut",
       "suitableFaces": ["oval", "square"],
       "popularity": 95
@@ -111,7 +111,7 @@
       "name": "Slicked Back",
       "category": "short",
       "description": "A sharp, slicked back look.",
-      "imageUrl": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://content.latest-hairstyles.com/wp-content/uploads/slicked-back-pompadour-with-skin-fade.jpg",
       "imageHint": "slicked back hair",
       "suitableFaces": ["oval", "square"],
       "popularity": 110
@@ -121,7 +121,7 @@
       "name": "Lob (Long Bob)",
       "category": "bob",
       "description": "A trendy long bob.",
-      "imageUrl": "https://images.pexels.com/photos/1468379/pexels-photo-1468379.jpeg?auto=compress&w=400&h=400",
+      "imageUrl": "https://hairstylesweekly.com/images/2017/12/16-perfect-long-bob-hairstyles-you-should-not-miss-easy-lob-haircuts-1-1.jpg",
       "imageHint": "long bob haircut",
       "suitableFaces": ["oval", "square", "heart"],
       "popularity": 200
