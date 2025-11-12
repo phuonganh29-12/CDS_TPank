@@ -1,4 +1,4 @@
-[<h2 align="center">
+<h2 align="center">
         <a href="https://github.com/Nemmer772004/Ai-Hairstyle-NPA">
         🎓 Ai-Hairstyle-TPA — Next.js + AI
         </a>
